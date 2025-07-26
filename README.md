@@ -37,8 +37,8 @@ pip install -r requirements.txt
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/yourusername/MyChatBot1.git
-cd MyChatBot1
+git clone https://github.com/Mayhaul/Light-Yagami-ChatBot.git
+cd Light-Yagami-ChatBot
 ```
 
 2. **Create a `.env` file** and add your OpenRouter API key:
